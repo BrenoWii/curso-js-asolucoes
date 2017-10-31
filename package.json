@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {    
+    "dev": "lite-server"
+  }
+}
