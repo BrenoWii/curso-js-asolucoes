@@ -20,7 +20,7 @@ function teste(){
     
     console.log('teste');
 }
-var input = document.querySelector("#input-focus")
+var input = document.querySelector("#input-focus");
 
 
 input.addEventListener('focusout',function(){

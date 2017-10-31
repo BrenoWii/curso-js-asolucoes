@@ -10,6 +10,10 @@ window.onload = function (){
     
 };
 //existe uma maneiro de criar um array, instancioando o new array
+//
+//
+//
+//
 //FOREARCH
 window.onload = function (){
     var nome = ['breno','bruna','tesste','teste'];
